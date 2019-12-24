@@ -26,5 +26,10 @@ namespace WinGitTest
         {
             this.Text = "버튼클릭";
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.Text = "지굴쟝?";
+        }
     }
 }

@@ -29,7 +29,7 @@ namespace WinGitTest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Text = "지굴쟝?";
+            this.Text = "지굴쟝구루쟝??";
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
